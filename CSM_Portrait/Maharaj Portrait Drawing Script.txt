@@ -1,0 +1,17 @@
+Maharaj Portrait Drawing Script
+
+This script uses the Turtle graphics library in Python to create a portrait of Maharaj. The script sets up a frame with a custom background image and uses a turtle object to draw the portrait. The drawing is composed of various shapes and lines that form the features of the Maharaj portrait.
+
+Author: Hariom Lokhandkar
+
+Script Functionality:
+
+- Sets up a frame with a custom background image
+- Draws the Maharaj portrait using a turtle object
+- Uses various shapes and lines to form the features of the portrait
+
+Customization:
+
+- You can modify the script to change the background image, turtle speed, and pen size to suit your preferences.
+
+Note: This script is a creative expression of art using Python's Turtle graphics library. It demonstrates the use of geometric shapes and lines to create a portrait.
