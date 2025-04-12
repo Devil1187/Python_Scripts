@@ -1,0 +1,17 @@
+*Title:* Smiling Face Drawing using Python Turtle
+
+*Description:*
+
+This code uses the Python Turtle library to draw a smiling face. The face is composed of a yellow circle for the face, two black circles for the eyes, and a curved line for the smile. The turtle graphics library provides a simple way to create graphics and animations in Python.
+
+*Key Features:*
+
+- Draws a smiling face with a yellow face, black eyes, and a curved smile
+- Uses the Python Turtle library for graphics
+- Demonstrates basic turtle graphics concepts, such as drawing circles and setting colors
+
+*Perfect for:*
+
+- Beginners learning Python and turtle graphics
+- Anyone looking to create simple graphics and animations in Python
+- Educational purposes, such as teaching programming concepts and graphics design.
